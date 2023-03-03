@@ -1,0 +1,7 @@
+mkdir - for creating a new directory or folder.
+touch - to create a new file
+cat - to view the contents of a file
+git add - to add updates that will be committed on github
+git commit - to commit our changes on github
+git push - to push the new updates or commits to github
+ls -al - to view the contents of a directory
